@@ -1,0 +1,18 @@
+
+:root{
+    font-size: 14px;
+    scroll-behavior: smooth;
+}
+
+[class*="col-"]{
+    color: #fff;
+    text-align: center;
+    background-color: #006cfa;
+    min-height: 3rem;
+    padding: 1rem;
+    border: 1px solid white;
+}
+
+.nested-col{
+    background-color: #00e165;
+}
